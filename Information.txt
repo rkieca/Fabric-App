@@ -1,0 +1,6 @@
+SOURCES:
+Programming Knowledge: https://www.youtube.com/playlist?list=PLB04B4E5D9B58C13D
+Ahmed S. Mashaly: https://www.youtube.com/playlist?list=PLJET4er85zHISmc9BmlPWgihIqMR5VAY7
+
+rs2xml.jar is used to populate values from database to JTable
+mysql-connector-java-5.1.35-bin.jar is used to connect to the database
